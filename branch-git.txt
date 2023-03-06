@@ -14,3 +14,4 @@ pull     = mengambil commit ke repo
 
 BRANCH
    ^istilah yang digunakakn untuk membuat jalur baru agar tidak mengganggu commit aslinya
+   cara membuat branch yakni dengan cara klik tombol branch pada repo lalu ketik nama repo yang dibuat
