@@ -1,1 +1,17 @@
+GITHUB
 
+repo     = folder
+commit   = rekaman dari perubahan repo
+hash     = penanda sebuah commit
+checkout = berpindah dari sebuah commmit 
+brach    = cabang commit tanpa mengganggu commit aslinya
+merge    = menggabungkan brach agar bisa menjadi 1 branch lagi
+remote   = sumber yang memiliki repo
+clone    = mengambil repo dari remote
+push     = mengirim commit ke repo
+pull     = mengambil commit ke repo
+
+
+FORK
+   ^menduplikat repo orang lain untuk disalin ke repo kita (tidak hanya repo tapi juga history dll) 
+   perbedaan dari CLONE yakni kalo clone itu menduplikat dari github ke komputer lokal kita 
