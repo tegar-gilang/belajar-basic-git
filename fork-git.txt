@@ -15,3 +15,7 @@ pull     = mengambil commit ke repo
 FORK
    ^menduplikat repo orang lain untuk disalin ke repo kita (tidak hanya repo tapi juga history dll) 
    perbedaan dari CLONE yakni kalo clone itu menduplikat dari github ke komputer lokal kita 
+   
+   
+   ^cara penggunaan = 1.bisa cari repo orang yang mau di fork lalu lihat pojok kannan logo fork lalu pencet maka otomatis 
+   masuk ke repo kita dan bisa kita edit 2.pilih file yang ingin di fork pilih edit maka akan langsung masuk ke repo kita dan sudah langsung bisa di edit
